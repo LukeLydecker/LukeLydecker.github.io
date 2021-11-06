@@ -1,0 +1,46 @@
+a:link {color: darkred; } 
+a:visited { color: darkblue; }
+a:hover{cursor: crosshair;}
+a:active{color: green; }
+ 
+body{ 
+    background: url("./images/anna-sullivan-KLYsx0-Atk4-unsplash.jpg") no-repeat center center/cover; 
+    margin: 15px auto;
+}
+
+h1 { 
+    color: gold;
+    font-size: 40px; 
+    text-align: center;
+    text-shadow: 1px 1px orange;
+}
+
+h2 { 
+    color: rgb(255, 147, 7);
+    font-size: 40px; 
+    text-align: center;
+}
+
+.column-layout p{
+    color: rgb(255, 0, 98);
+    font-size: 30px;
+    text-shadow: 1px 1px red;
+}
+
+.column-layout li{
+    color: whitesmoke; 
+    font-size: 30px;
+    list-style-type: upper-roman;
+    text-shadow: 1px 1px black;
+}
+
+img { 
+    max-width: 100%;
+}
+
+footer { 
+    color: coral;
+    font-size: 40px; 
+    text-align: center;
+    text-shadow: 1px 1px blue;
+}
